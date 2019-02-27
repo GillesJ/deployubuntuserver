@@ -31,7 +31,7 @@ Bash iterprets keyboard inputs with definitions in /etc/.
 ZSH does not use this, sometimes it works on a machine, sometimes it doesn't ¯\_(ツ)_/¯,.
 http://zshwiki.org/home/zle/bindkeys for a proper solution.
 If all else fails: append the following bindkey definitions to your .zshrc:
-'''
+```
 # key bindings
 bindkey "e[1~" beginning-of-line
 bindkey "e[4~" end-of-line
@@ -57,4 +57,4 @@ bindkey "e[H" beginning-of-line
 bindkey "e[F" end-of-line
 # completion in the middle of a line
 bindkey '^i' expand-or-complete-prefix
-'''
+```
