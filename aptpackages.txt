@@ -1,0 +1,17 @@
+git
+jq
+htop
+ncdu
+# zsh
+nano
+# zsh dependencies
+build-essential
+libncurses-dev
+# pyenv dependencies
+zlib1g-dev
+libffi-dev
+bzip2
+libreadline-dev
+libssl-dev
+libbz2-dev
+libsqlite3-dev

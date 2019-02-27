@@ -1,0 +1,5 @@
+pipenv
+youtube-dl
+soundscrape
+instagram-scraper
+glances
