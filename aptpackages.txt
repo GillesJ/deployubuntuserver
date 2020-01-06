@@ -2,6 +2,7 @@ git
 jq
 htop
 ncdu
+mailutils
 # zsh
 nano
 # zsh dependencies
